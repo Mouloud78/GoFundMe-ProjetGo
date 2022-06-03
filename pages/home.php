@@ -1,4 +1,4 @@
-<h1>Page d'accueil du site</h1>
+<h1>Page d'accueil du site GoFundMeTest</h1>
 <div class="row">
 
     <?php
